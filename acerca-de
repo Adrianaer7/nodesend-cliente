@@ -1,0 +1,9 @@
+"npm i formik" para trabajar con el state 
+"npm i -S yup" es como el express-validator de node, en react
+"npm i axios" hacer peticiones a la bd
+"npm i --save react-dropzone" para arrastrar archivos o exportarlos
+
+Pasos para hacer el deployment
+"npm i -g vercel"
+"vercel"
+Seguir los Pasos
