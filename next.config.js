@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-    backendURL: "https://merntask-servidorr.herokuapp.com",  
+    backendURL: "https://quiet-eyrie-48591.herokuapp.com/",  
     frontendURL: "https://nodesend-cliente-tawny.vercel.app"
   }
 }
